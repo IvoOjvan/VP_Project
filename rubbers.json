@@ -1,0 +1,1246 @@
+{
+    "brands":[
+        {
+            "brand_name": "Butterfly",
+            "rubbers":[
+                {
+                    "rubber_name": "Butterfly Addoy",
+                    "properties":{
+                        "speed": 5.1,
+                        "spin": 5.3,
+                        "control": 8.0,
+                        "tackiness": 1.1,
+                        "weight": 2.4,
+                        "sponge_hardness": 3.5,
+                        "gears": 2.8,
+                        "throw_angle": 1.1,
+                        "consistency": 5.4,
+                        "durability": 5.8,
+                        "overall": 6.5,
+                        "price":5
+                    }
+                },
+                {
+                    "rubber_name": "Butterfly Aibiss",
+                    "properties":{
+                        "speed": 8.5,
+                        "spin": 9.3,
+                        "control": 9.3,
+                        "tackiness": 4.7,
+                        "weight": 4.0,
+                        "sponge_hardness": 9.9,
+                        "gears": 8.3,
+                        "throw_angle": 6.2,
+                        "consistency": 9.8,
+                        "durability": 8.7,
+                        "overall": 9.1,
+                        "price":40
+                    } 
+                },
+                {
+                    "rubber_name": "Butterfly Bryce",
+                    "properties":{
+                        "speed": 9.0,
+                        "spin": 7.5,
+                        "control": 6.9,
+                        "tackiness": 2.0,
+                        "weight": 4.7,
+                        "sponge_hardness": 5.5,
+                        "gears": 5.5,
+                        "throw_angle": 3.1,
+                        "consistency": 7.9,
+                        "durability": 6.0,
+                        "overall": 7.8,
+                        "price":57
+                        
+                    }
+                },
+                {
+                    "rubber_name": "Butterfly Bryce FX",
+                    "properties":{
+                        "speed": 8.6,
+                        "spin": 8.2,
+                        "control": 8.2,
+                        "tackiness": 1.5,
+                        "weight": 4.3,
+                        "sponge_hardness": 2.8,
+                        "gears": 6.1,
+                        "throw_angle": 3.8,
+                        "consistency": 7.9,
+                        "durability": 5.1,
+                        "overall": 8.4,
+                        "price":55
+                    }
+                },
+                {
+                    "rubber_name": "Butterfly Bryce FX PowerSponge",
+                    "properties":{
+                        "speed": 8.7,
+                        "spin": 8.7,
+                        "control": 8.6,
+                        "tackiness": 2.0,
+                        "weight": 4.0,
+                        "sponge_hardness": 5.0,
+                        "gears": 5.0,
+                        "throw_angle": 5.3,
+                        "consistency": 8.3,
+                        "durability": 5.7,
+                        "overall": 8.5,
+                        "price":55
+                    }
+                },
+                {
+                    "rubber_name": "Butterfly Bryce Hard",
+                    "properties":{
+                        "speed": 9.0,
+                        "spin": 8.0,
+                        "control": 8.5,
+                        "tackiness": 2.0,
+                        "weight": 4.0,
+                        "sponge_hardness": 8.5,
+                        "gears": 1.0,
+                        "throw_angle": 1.0,
+                        "consistency": 10.0,
+                        "durability": 6.0,
+                        "overall": 8.5,
+                        "price":35
+                    }
+                },
+                {
+                    "rubber_name": "Butterfly Bryce High Speed",
+                    "properties":{
+                        "speed": 9.4,
+                        "spin": 8.4,
+                        "control": 8.4,
+                        "tackiness": 2.1,
+                        "weight": 3.5,
+                        "sponge_hardness": 4.6,
+                        "gears": 7.2,
+                        "throw_angle": 4.3,
+                        "consistency": 8.4,
+                        "durability": 7.8,
+                        "overall": 9.1,
+                        "price":63
+                    }
+                },
+                {
+                    "rubber_name": "Butterfly Bryce High Tune",
+                    "properties":{
+                        "speed": 9.1,
+                        "spin": 8.8,
+                        "control": 8.0,
+                        "tackiness": 1.0,
+                        "weight": 6.0,
+                        "sponge_hardness": 5.0,
+                        "gears": 10.0,
+                        "throw_angle": 6.0,
+                        "consistency": 10.0,
+                        "durability": 7.0,
+                        "overall": 9.1,
+                        "price":35
+                    }
+                },
+                {
+                    "rubber_name": "Butterfly Bryce PowerSponge",
+                    "properties":{
+                        "speed": 8.0,
+                        "spin": 9.0,
+                        "control": 8.0,
+                        "tackiness": 2.0,
+                        "weight": 2.0,
+                        "sponge_hardness": 3.0,
+                        "gears": 10.0,
+                        "throw_angle": 2.0,
+                        "consistency": 10.0,
+                        "durability": 10.0,
+                        "overall": 8.0,
+                        "price":35
+                    }
+                },
+                {
+                    "rubber_name": "Butterfly Bryce Speed",
+                    "properties":{
+                        "speed": 9.4,
+                        "spin": 8.3,
+                        "control": 8.0,
+                        "tackiness": 1.4,
+                        "weight": 5.4,
+                        "sponge_hardness": 6.7,
+                        "gears": 6.2,
+                        "throw_angle": 2.7,
+                        "consistency": 8.2,
+                        "durability": 7.3,
+                        "overall": 9.0,
+                        "price":79
+                    }
+                },
+                {
+                    "rubber_name": "Butterfly Bryce Speed FX",
+                    "properties":{
+                        "speed": 9.4,
+                        "spin": 8.4,
+                        "control": 8.4,
+                        "tackiness": 2.5,
+                        "weight": 4.3,
+                        "sponge_hardness": 3.4,
+                        "gears": 7.2,
+                        "throw_angle": 3.4,
+                        "consistency": 8.9,
+                        "durability": 6.9,
+                        "overall": 9.1,
+                        "price":65
+                    }
+                },
+                {
+                    "rubber_name": "Butterfly Catapult",
+                    "properties":{
+                        "speed": 9.0,
+                        "spin": 8.7,
+                        "control": 8.7,
+                        "tackiness": 2.3,
+                        "weight": 4.0,
+                        "sponge_hardness": 2.1,
+                        "gears": 6.5,
+                        "throw_angle": 3.4,
+                        "consistency": 7.5,
+                        "durability": 5.7,
+                        "overall": 8.4,
+                        "price":52
+                    }
+                },
+                {
+                    "rubber_name": "Butterfly Cermet",
+                    "properties":{
+                        "speed": 8.6,
+                        "spin": 8.2,
+                        "control": 8.3,
+                        "tackiness": 0.9,
+                        "weight": 2.8,
+                        "sponge_hardness": 4.0,
+                        "gears": 8.3,
+                        "throw_angle": 2.9,
+                        "consistency": 10.0,
+                        "durability": 7.8,
+                        "overall": 8.9,
+                        "price": 43
+                    }
+                },
+                {
+                    "rubber_name": "Butterfly Dignics 05",
+                    "properties":{
+                        "speed": 9.1,
+                        "spin": 9.4,
+                        "control": 8.8,
+                        "tackiness": 1.9,
+                        "weight": 5.1,
+                        "sponge_hardness": 7.0,
+                        "gears": 8.3,
+                        "throw_angle": 6.4,
+                        "consistency": 8.7,
+                        "durability": 8.4,
+                        "overall": 9.2,
+                        "price":99
+                    }
+                },
+                {
+                    "rubber_name": "Butterfly Dignics 09C",
+                    "properties":{
+                        "speed": 8.7,
+                        "spin": 9.5,
+                        "control": 9.1,
+                        "tackiness": 5.4,
+                        "weight": 7.0,
+                        "sponge_hardness": 8.2,
+                        "gears": 8.8,
+                        "throw_angle": 8.4,
+                        "consistency": 9.8,
+                        "durability": 7.7,
+                        "overall": 9.2,
+                        "price":93
+                    }
+                },
+                {
+                    "rubber_name": "Butterfly Dignics 64",
+                    "properties":{
+                        "speed": 9.4,
+                        "spin": 9.2,
+                        "control": 8.9,
+                        "tackiness": 1.8,
+                        "weight": 4.5,
+                        "sponge_hardness": 6.3,
+                        "gears": 8.8,
+                        "throw_angle": 4.0,
+                        "consistency": 9.5,
+                        "durability": 7.9,
+                        "overall": 9.3,
+                        "price":87
+                    }
+                },
+                {
+                    "rubber_name": "Butterfly Dignics 80",
+                    "properties":{
+                        "speed": 9.4,
+                        "spin": 9.3,
+                        "control": 9.0,
+                        "tackiness": 1.6,
+                        "weight": 5.7,
+                        "sponge_hardness": 6.8,
+                        "gears": 8.1,
+                        "throw_angle": 5.5,
+                        "consistency": 10.0,
+                        "durability": 8.8,
+                        "overall": 9.4,
+                        "price":87
+                    }
+                },
+                {
+                    "rubber_name": "Butterfly Ekrips",
+                    "properties":{
+                        "speed": 7.6,
+                        "spin": 7.0,
+                        "control": 7.4,
+                        "tackiness": 1.5,
+                        "weight": 3.0,
+                        "sponge_hardness": 4.5,
+                        "gears": 2.0,
+                        "throw_angle": 2.5,
+                        "consistency": 10.0,
+                        "durability": 5.8,
+                        "overall": 6.7,
+                        "price":37
+                    }
+                },
+                {
+                    "rubber_name": "Butterfly Ekrips Soft",
+                    "properties":{
+                        "speed": 7.9,
+                        "spin": 7.3,
+                        "control": 8.1,
+                        "tackiness": 1.0,
+                        "weight": 1.3,
+                        "sponge_hardness": 2.8,
+                        "gears": 4.8,
+                        "throw_angle": 2.5,
+                        "consistency": 8.8,
+                        "durability": 7.5,
+                        "overall": 7.7,
+                        "price":35
+                    }
+                },
+                {
+                    "rubber_name": "Butterfly Flextra",
+                    "properties":{
+                        "speed": 7.0,
+                        "spin": 7.4,
+                        "control": 8.7,
+                        "tackiness": 2.6,
+                        "weight": 2.7,
+                        "sponge_hardness": 2.5,
+                        "gears": 5.4,
+                        "throw_angle": 3.7,
+                        "consistency": 9.1,
+                        "durability": 6.7,
+                        "overall": 7.8,
+                        "price":20
+                    }
+                },
+                {
+                    "rubber_name": "Butterfly Glayzer",
+                    "properties":{
+                        "speed": 8.6,
+                        "spin": 8.9,
+                        "control": 9.0,
+                        "tackiness": 2.2,
+                        "weight": 5.8,
+                        "sponge_hardness": 6.8,
+                        "gears": 6.6,
+                        "throw_angle": 5.7,
+                        "consistency": 10.0,
+                        "durability": 7.1,
+                        "overall": 8.8,
+                        "price":54
+                    }
+                },
+                {
+                    "rubber_name": "Butterfly Glayzer 09C",
+                    "properties":{
+                        "speed": 7.9,
+                        "spin": 8.9,
+                        "control": 9.0,
+                        "tackiness": 4.3,
+                        "weight": 4.6,
+                        "sponge_hardness": 7.4,
+                        "gears": 8.2,
+                        "throw_angle": 7.4,
+                        "consistency": 10.0,
+                        "durability": 7.0,
+                        "overall": 8.6,
+                        "price":60
+                    }
+                },
+                {
+                    "rubber_name": "Butterfly Pan Asia",
+                    "properties":{
+                        "speed": 6.5,
+                        "spin": 6.8,
+                        "control": 8.2,
+                        "tackiness": 2.1,
+                        "weight": 2.0,
+                        "sponge_hardness": 1.9,
+                        "gears": 5.1,
+                        "throw_angle": 4.1,
+                        "consistency": 8.1,
+                        "durability": 4.8,
+                        "overall": 6.8,
+                        "price":10
+                    }
+                },
+                {
+                    "rubber_name": "Butterfly Roundell",
+                    "properties":{
+                        "speed": 8.7,
+                        "spin": 8.6,
+                        "control": 8.7,
+                        "tackiness": 2.6,
+                        "weight": 4.2,
+                        "sponge_hardness": 3.9,
+                        "gears": 6.1,
+                        "throw_angle": 5.5,
+                        "consistency": 8.3,
+                        "durability": 6.3,
+                        "overall": 8.6,
+                        "price":48
+                    }
+                },
+                {
+                    "rubber_name": "Butterfly Roundell Hard",
+                    "properties":{
+                        "speed": 8.8,
+                        "spin": 9.0,
+                        "control": 8.2,
+                        "tackiness": 1.5,
+                        "weight": 5.3,
+                        "sponge_hardness": 7.3,
+                        "gears": 7.0,
+                        "throw_angle": 6.0,
+                        "consistency": 10.0,
+                        "durability": 9.0,
+                        "overall": 8.9,
+                        "price":45
+                    }
+                },
+                {
+                    "rubber_name": "Butterfly Roundell Soft",
+                    "properties":{
+                        "speed": 8.6,
+                        "spin": 8.7,
+                        "control": 8.8,
+                        "tackiness": 2.4,
+                        "weight": 2.5,
+                        "sponge_hardness": 0.6,
+                        "gears": 7.8,
+                        "throw_angle": 4.4,
+                        "consistency": 9.6,
+                        "durability": 6.6,
+                        "overall": 8.8,
+                        "price":45
+                    }
+                },
+                {
+                    "rubber_name": "Butterfly Rozena",
+                    "properties":{
+                        "speed": 8.7,
+                        "spin": 8.4,
+                        "control": 8.7,
+                        "tackiness": 1.6,
+                        "weight": 4.6,
+                        "sponge_hardness": 5.1,
+                        "gears": 6.9,
+                        "throw_angle": 5.5,
+                        "consistency": 8.9,
+                        "durability": 6.7,
+                        "overall": 8.8,
+                        "price":32
+                    }
+                },
+                {
+                    "rubber_name": "Butterfly Sapphira",
+                    "properties":{
+                        "speed": 8.2,
+                        "spin": 8.5,
+                        "control": 8.0,
+                        "tackiness": 2.7,
+                        "weight": 6.0,
+                        "sponge_hardness": 3.4,
+                        "gears": 6.6,
+                        "throw_angle": 5.2,
+                        "consistency": 9.0,
+                        "durability": 7.3,
+                        "overall": 8.4,
+                        "price":32
+                    }
+                },
+                {
+                    "rubber_name": "Butterfly Solcion",
+                    "properties":{
+                        "speed": 7.9,
+                        "spin": 8.2,
+                        "control": 8.9,
+                        "tackiness": 1.6,
+                        "weight": 2.7,
+                        "sponge_hardness": 0.2,
+                        "gears": 7.8,
+                        "throw_angle": 5.9,
+                        "consistency": 9.4,
+                        "durability": 7.4,
+                        "overall": 8.6,
+                        "price":53
+                    }
+                },
+                {
+                    "rubber_name": "Butterfly Spin Art",
+                    "properties":{
+                        "speed": 8.6,
+                        "spin": 9.3,
+                        "control": 8.9,
+                        "tackiness": 6.0,
+                        "weight": 7.7,
+                        "sponge_hardness": 9.1,
+                        "gears": 9.2,
+                        "throw_angle": 5.9,
+                        "consistency": 9.4,
+                        "durability": 8.4,
+                        "overall": 9.3,
+                        "price":68
+                    }
+                },
+                {
+                    "rubber_name": "Butterfly Sriver",
+                    "properties":{
+                        "speed": 8.0,
+                        "spin": 8.0,
+                        "control": 8.5,
+                        "tackiness": 2.4,
+                        "weight": 4.4,
+                        "sponge_hardness": 5.4,
+                        "gears": 7.4,
+                        "throw_angle": 3.9,
+                        "consistency": 9.1,
+                        "durability": 7.6,
+                        "overall": 8.5,
+                        "price":40
+                    }
+                },
+                {
+                    "rubber_name": "Butterfly Sriver EL",
+                    "properties":{
+                        "speed": 7.8,
+                        "spin": 7.8,
+                        "control": 8.5,
+                        "tackiness": 2.7,
+                        "weight": 4.0,
+                        "sponge_hardness": 4.0,
+                        "gears": 6.9,
+                        "throw_angle": 4.4,
+                        "consistency": 9.3,
+                        "durability": 7.2,
+                        "overall": 8.5,
+                        "price":50
+                    }
+                },
+                {
+                    "rubber_name": "Butterfly Sriver FX",
+                    "properties":{
+                        "speed": 7.9,
+                        "spin": 8.1,
+                        "control": 8.6,
+                        "tackiness": 2.7,
+                        "weight": 3.5,
+                        "sponge_hardness": 2.6,
+                        "gears": 7.1,
+                        "throw_angle": 4.8,
+                        "consistency": 8.4,
+                        "durability": 7.1,
+                        "overall": 8.5,
+                        "price":40
+                    }
+                },
+                {
+                    "rubber_name": "Butterfly Sriver G2",
+                    "properties":{
+                        "speed": 8.4,
+                        "spin": 8.2,
+                        "control": 8.6,
+                        "tackiness": 2.5,
+                        "weight": 4.1,
+                        "sponge_hardness": 5.0,
+                        "gears": 5.9,
+                        "throw_angle": 4.1,
+                        "consistency": 9.3,
+                        "durability": 7.9,
+                        "overall": 8.7,
+                        "price":56
+                    }
+                },
+                {
+                    "rubber_name": "Butterfly Sriver G2 FX",
+                    "properties":{
+                        "speed": 7.9,
+                        "spin": 8.2,
+                        "control": 8.4,
+                        "tackiness": 1.9,
+                        "weight": 3.9,
+                        "sponge_hardness": 2.4,
+                        "gears": 7.8,
+                        "throw_angle": 3.1,
+                        "consistency": 8.7,
+                        "durability": 8.1,
+                        "overall": 8.4,
+                        "price":56
+                    }
+                },
+                {
+                    "rubber_name": "Butterfly Sriver G2 High Tune",
+                    "properties":{
+                        "speed": 8.5,
+                        "spin": 8.0,
+                        "control": 7.5,
+                        "tackiness": 5.0,
+                        "weight": 4.0,
+                        "sponge_hardness": 5.0,
+                        "gears": 8.5,
+                        "throw_angle": 3.0,
+                        "consistency": 10.0,
+                        "durability": 10.0,
+                        "overall": 8.5,
+                        "price":67
+                    }
+                },
+                {
+                    "rubber_name": "Butterfly Sriver G3",
+                    "properties":{
+                        "speed": 8.4,
+                        "spin": 8.2,
+                        "control": 8.7,
+                        "tackiness": 3.0,
+                        "weight": 4.4,
+                        "sponge_hardness": 5.1,
+                        "gears": 7.9,
+                        "throw_angle": 4.9,
+                        "consistency": 8.8,
+                        "durability": 7.2,
+                        "overall": 8.4,
+                        "price":57
+                    }
+                },
+                {
+                    "rubber_name": "Butterfly Sriver G3 FX",
+                    "properties":{
+                        "speed": 8.6,
+                        "spin": 8.4,
+                        "control": 8.6,
+                        "tackiness": 2.7,
+                        "weight": 3.7,
+                        "sponge_hardness": 3.3,
+                        "gears": 7.9,
+                        "throw_angle": 7.1,
+                        "consistency": 8.0,
+                        "durability": 7.1,
+                        "overall": 8.9,
+                        "price":59
+                    }
+                },
+                {
+                    "rubber_name": "Butterfly Sriver High Tune",
+                    "properties":{
+                        "speed": 8.3,
+                        "spin": 8.3,
+                        "control": 7.4,
+                        "tackiness": 4.0,
+                        "weight": 7.3,
+                        "sponge_hardness": 5.0,
+                        "gears": 7.0,
+                        "throw_angle": 5.3,
+                        "consistency": 2.5,
+                        "durability": 4.3,
+                        "overall": 8.7,
+                        "price":55
+                    }
+                },
+                {
+                    "rubber_name": "Butterfly Sriver L",
+                    "properties":{
+                        "speed": 8.2,
+                        "spin": 8.1,
+                        "control": 8.9,
+                        "tackiness": 2.7,
+                        "weight": 5.2,
+                        "sponge_hardness": 6.1,
+                        "gears": 7.8,
+                        "throw_angle": 4.2,
+                        "consistency": 9.3,
+                        "durability": 7.8,
+                        "overall": 8.6,
+                        "price":28
+                    }
+                },
+                {
+                    "rubber_name": "Butterfly Sriver S",
+                    "properties":{
+                        "speed": 7.3,
+                        "spin": 6.5,
+                        "control": 6.6,
+                        "tackiness": 2.3,
+                        "weight": 3.5,
+                        "sponge_hardness": 4.5,
+                        "gears": 5.5,
+                        "throw_angle": 2.0,
+                        "consistency": 7.5,
+                        "durability": 8.0,
+                        "overall": 8.3,
+                        "price":28
+                    }
+                },
+                {
+                    "rubber_name": "Butterfly Tempest",
+                    "properties":{
+                        "speed": 8.0,
+                        "spin": 7.8,
+                        "control": 10.0,
+                        "tackiness": 2.0,
+                        "weight": 2.0,
+                        "sponge_hardness": 0.0,
+                        "gears": 4.0,
+                        "throw_angle": 4.0,
+                        "consistency": 10.0,
+                        "durability": 7.0,
+                        "overall": 8.3,
+                        "price":30
+                    }
+                },
+                {
+                    "rubber_name": "Butterfly Tenergy 05",
+                    "properties":{
+                        "speed": 9.3,
+                        "spin": 9.4,
+                        "control": 8.3,
+                        "tackiness": 2.3,
+                        "weight": 6.5,
+                        "sponge_hardness": 6.1,
+                        "gears": 8.7,
+                        "throw_angle": 7.6,
+                        "consistency": 9.3,
+                        "durability": 7.7,
+                        "overall": 9.3,
+                        "price":90
+                    }
+                },
+                {
+                    "rubber_name": "Butterfly Tenergy 05 FX",
+                    "properties":{
+                        "speed": 9.1,
+                        "spin": 9.2,
+                        "control": 8.8,
+                        "tackiness": 3.0,
+                        "weight": 5.4,
+                        "sponge_hardness": 4.0,
+                        "gears": 8.4,
+                        "throw_angle": 6.0,
+                        "consistency": 9.3,
+                        "durability": 7.7,
+                        "overall": 9.3,
+                        "price":75
+                    }
+                },
+                {
+                    "rubber_name": "Butterfly Tenergy 05 Hard",
+                    "properties":{
+                        "speed": 9.3,
+                        "spin": 9.4,
+                        "control": 8.4,
+                        "tackiness": 2.0,
+                        "weight": 8.2,
+                        "sponge_hardness": 9.4,
+                        "gears": 8.6,
+                        "throw_angle": 6.2,
+                        "consistency": 9.5,
+                        "durability": 7.6,
+                        "overall": 9.1,
+                        "price":70
+                    }
+                },
+                {
+                    "rubber_name": "Butterfly Tenergy 19",
+                    "properties":{
+                        "speed": 9.0,
+                        "spin": 9.3,
+                        "control": 9.2,
+                        "tackiness": 1.8,
+                        "weight": 4.8,
+                        "sponge_hardness": 6.1,
+                        "gears": 8.0,
+                        "throw_angle": 6.2,
+                        "consistency": 9.3,
+                        "durability": 7.6,
+                        "overall": 9.3,
+                        "price":84
+                    }
+                },
+                {
+                    "rubber_name": "Butterfly Tenergy 25",
+                    "properties":{
+                        "speed": 9.2,
+                        "spin": 9.1,
+                        "control": 8.8,
+                        "tackiness": 2.5,
+                        "weight": 6.8,
+                        "sponge_hardness": 6.7,
+                        "gears": 8.6,
+                        "throw_angle": 4.3,
+                        "consistency": 10.0,
+                        "durability": 8.2,
+                        "overall": 9.3,
+                        "price":78
+                    }
+                },
+                {
+                    "rubber_name": "Butterfly Tenergy 25 FX",
+                    "properties":{
+                        "speed": 9.1,
+                        "spin": 9.2,
+                        "control": 8.9,
+                        "tackiness": 2.7,
+                        "weight": 4.4,
+                        "sponge_hardness": 4.1,
+                        "gears": 9.0,
+                        "throw_angle": 4.8,
+                        "consistency": 9.6,
+                        "durability": 8.4,
+                        "overall": 9.4,
+                        "price":78
+                    }
+                },
+                {
+                    "rubber_name": "Butterfly Tenergy 64",
+                    "properties":{
+                        "speed": 9.3,
+                        "spin": 8.8,
+                        "control": 8.5,
+                        "tackiness": 2.5,
+                        "weight": 5.5,
+                        "sponge_hardness": 5.1,
+                        "gears": 8.5,
+                        "throw_angle": 5.4,
+                        "consistency": 9.2,
+                        "durability": 8.0,
+                        "overall": 9.3,
+                        "price":70
+                    }
+                },
+                {
+                    "rubber_name": "Butterfly Tenergy 64 FX",
+                    "properties":{
+                        "speed": 9.0,
+                        "spin": 8.9,
+                        "control": 8.5,
+                        "tackiness": 1.6,
+                        "weight": 4.6,
+                        "sponge_hardness": 2.9,
+                        "gears": 7.7,
+                        "throw_angle": 3.9,
+                        "consistency": 9.4,
+                        "durability": 7.5,
+                        "overall": 9.1,
+                        "price":78
+                    }
+                },
+                {
+                    "rubber_name": "Butterfly Tenergy 80",
+                    "properties":{
+                        "speed": 9.3,
+                        "spin": 9.4,
+                        "control": 9.0,
+                        "tackiness": 2.1,
+                        "weight": 5.5,
+                        "sponge_hardness": 5.4,
+                        "gears": 9.0,
+                        "throw_angle": 5.9,
+                        "consistency": 9.2,
+                        "durability": 7.7,
+                        "overall": 9.4,
+                        "price":80
+                    }
+                },
+                {
+                    "rubber_name": "Butterfly Tenergy 80 FX",
+                    "properties":{
+                        "speed": 8.9,
+                        "spin": 8.9,
+                        "control": 8.5,
+                        "tackiness": 1.9,
+                        "weight": 4.4,
+                        "sponge_hardness": 3.6,
+                        "gears": 7.9,
+                        "throw_angle": 5.2,
+                        "consistency": 8.7,
+                        "durability": 7.5,
+                        "overall": 8.8,
+                        "price":80
+                    }
+                }
+            ]
+        },
+        {
+            "brand_name":"Donic",
+            "rubbers":[
+                {
+                    "rubber_name": "Donic Acuda Blue P1",
+                    "properties":{
+                        "speed": 9.3,
+                        "spin": 9.2,
+                        "control": 8.9,
+                        "tackiness": 2.6,
+                        "weight": 5.2,
+                        "sponge_hardness": 6.0,
+                        "gears": 8.6,
+                        "throw_angle": 5.6,
+                        "consistency": 9.2,
+                        "durability": 7.2,
+                        "overall": 9.3,
+                        "price":44
+                    }
+                },
+                {
+                    "rubber_name": "Donic Acuda Blue P1 Turbo",
+                    "properties":{
+                        "speed": 9.4,
+                        "spin": 9.3,
+                        "control": 8.9,
+                        "tackiness": 2.4,
+                        "weight": 5.2,
+                        "sponge_hardness": 6.5,
+                        "gears": 7.7,
+                        "throw_angle": 5.3,
+                        "consistency": 9.3,
+                        "durability": 8.1,
+                        "overall": 9.0,
+                        "price":54
+                    }
+                },
+                {
+                    "rubber_name": "Donic Acuda Blue P2",
+                    "properties":{
+                        "speed": 9.0,
+                        "spin": 9.4,
+                        "control": 9.1,
+                        "tackiness": 2.8,
+                        "weight": 4.0,
+                        "sponge_hardness": 4.3,
+                        "gears": 8.2,
+                        "throw_angle": 4.5,
+                        "consistency": 9.1,
+                        "durability": 7.3,
+                        "overall": 9.4,
+                        "price":54
+                    }
+                },
+                {
+                    "rubber_name": "Donic Acuda Blue P3",
+                    "properties":{
+                        "speed": 8.2,
+                        "spin": 8.5,
+                        "control": 9.1,
+                        "tackiness": 2.2,
+                        "weight": 4.0,
+                        "sponge_hardness": 1.3,
+                        "gears": 5.9,
+                        "throw_angle": 4.0,
+                        "consistency": 7.9,
+                        "durability": 6.0,
+                        "overall": 8.4,
+                        "price":54
+                    }
+                },
+                {
+                    "rubber_name": "Donic Acuda Blue S1",
+                    "properties":{
+                        "speed": 9.2,
+                        "spin": 9.1,
+                        "control": 8.2,
+                        "tackiness": 1.9,
+                        "weight": 4.6,
+                        "sponge_hardness": 6.7,
+                        "gears": 8.3,
+                        "throw_angle": 5.1,
+                        "consistency": 8.9,
+                        "durability": 7.0,
+                        "overall": 9.1,
+                        "price":52
+                    }
+                },
+                {
+                    "rubber_name": "Donic Acuda Blue S1 Turbo",
+                    "properties":{
+                        "speed": 9.4,
+                        "spin": 9.1,
+                        "control": 8.3,
+                        "tackiness": 3.2,
+                        "weight": 6.1,
+                        "sponge_hardness": 6.9,
+                        "gears": 8.3,
+                        "throw_angle": 6.1,
+                        "consistency": 8.5,
+                        "durability": 7.0,
+                        "overall": 9.3,
+                        "price":5
+                    }
+                },
+                {
+                    "rubber_name": "Donic Acuda S2",
+                    "properties":{
+                        "speed": 8.8,
+                        "spin": 9.0,
+                        "control": 8.6,
+                        "tackiness": 2.6,
+                        "weight": 4.4,
+                        "sponge_hardness": 4.5,
+                        "gears": 7.9,
+                        "throw_angle": 5.1,
+                        "consistency": 9.1,
+                        "durability": 7.5,
+                        "overall": 9.1,
+                        "price":37
+                    }
+                },
+                {
+                    "rubber_name": "Donic Acuda S3",
+                    "properties":{
+                        "speed": 8.4,
+                        "spin": 9.1,
+                        "control": 8.7,
+                        "tackiness": 1.8,
+                        "weight": 3.6,
+                        "sponge_hardness": 1.9,
+                        "gears": 7.9,
+                        "throw_angle": 5.5,
+                        "consistency": 9.5,
+                        "durability": 7.4,
+                        "overall": 9.0,
+                        "price":52
+                    }
+                },
+                {
+                    "rubber_name": "Donic Baracuda",
+                    "properties":{
+                        "speed": 8.7,
+                        "spin": 9.5,
+                        "control": 8.6,
+                        "tackiness": 2.3,
+                        "weight": 5.5,
+                        "sponge_hardness": 4.9,
+                        "gears": 7.9,
+                        "throw_angle": 7.3,
+                        "consistency": 8.9,
+                        "durability": 7.7,
+                        "overall": 9.3,
+                        "price":60
+                    }
+                },
+                {
+                    "rubber_name": "Donic Baracuda Big Slam",
+                    "properties":{
+                        "speed": 8.2,
+                        "spin": 9.2,
+                        "control": 8.6,
+                        "tackiness": 2.0,
+                        "weight": 4.5,
+                        "sponge_hardness": 2.5,
+                        "gears": 6.4,
+                        "throw_angle": 5.9,
+                        "consistency": 9.4,
+                        "durability": 6.4,
+                        "overall": 8.9,
+                        "price":70
+                    }
+                }
+               
+            ]
+        },
+        {
+            "brand_name":"Stiga",
+            "rubbers":[
+                {
+                    "rubber_name": "Stiga Airoc Astro M",
+                    "properties":{
+                        "speed": 9.0,
+                        "spin": 8.6,
+                        "control": 8.5,
+                        "tackiness": 3.1,
+                        "weight": 5.8,
+                        "sponge_hardness": 5.7,
+                        "gears": 5.8,
+                        "throw_angle": 4.8,
+                        "consistency": 7.8,
+                        "durability": 6.0,
+                        "overall": 8.6,
+                        "price":60
+                    }
+                },
+                {
+                    "rubber_name": "Stiga Airoc Astro S",
+                    "properties":{
+                        "speed": 8.9,
+                        "spin": 9.0,
+                        "control": 8.8,
+                        "tackiness": 4.2,
+                        "weight": 4.1,
+                        "sponge_hardness": 3.9,
+                        "gears": 6.5,
+                        "throw_angle": 5.2,
+                        "consistency": 8.2,
+                        "durability": 6.4,
+                        "overall": 9.0,
+                        "price":55
+                    }
+                },
+                {
+                    "rubber_name": "Stiga Airoc M",
+                    "properties":{
+                        "speed": 8.8,
+                        "spin": 9.0,
+                        "control": 8.7,
+                        "tackiness": 2.5,
+                        "weight": 5.3,
+                        "sponge_hardness": 5.4,
+                        "gears": 6.8,
+                        "throw_angle": 5.6,
+                        "consistency": 8.3,
+                        "durability": 7.1,
+                        "overall": 8.8,
+                        "price":37
+                    }
+                },
+                {
+                    "rubber_name": "Stiga Carbo",
+                    "properties":{
+                        "speed": 8.4,
+                        "spin": 7.9,
+                        "control": 8.3,
+                        "tackiness": 3.5,
+                        "weight": 2.8,
+                        "sponge_hardness": 5.0,
+                        "gears": 4.0,
+                        "throw_angle": 3.0,
+                        "consistency": 9.0,
+                        "durability": 6.0,
+                        "overall": 8.3,
+                        "price":18
+                    }
+                },
+                {
+                    "rubber_name": "Stiga Evo",
+                    "properties":{
+                        "speed": 8.0,
+                        "spin": 7.6,
+                        "control": 8.4,
+                        "tackiness": 2.0,
+                        "weight": 3.6,
+                        "sponge_hardness": 4.3,
+                        "gears": 6.4,
+                        "throw_angle": 4.8,
+                        "consistency": 8.5,
+                        "durability": 7.0,
+                        "overall": 8.1,
+                        "price":25
+                    }
+                },
+                {
+                    "rubber_name": "Stiga Innova",
+                    "properties":{
+                        "speed": 7.9,
+                        "spin": 8.2,
+                        "control": 8.8,
+                        "tackiness": 1.8,
+                        "weight": 2.6,
+                        "sponge_hardness": 3.6,
+                        "gears": 8.2,
+                        "throw_angle": 3.6,
+                        "consistency": 7.5,
+                        "durability": 5.3,
+                        "overall": 8.2,
+                        "price":31
+                    }
+                },
+                {
+                    "rubber_name": "Stiga Magna",
+                    "properties":{
+                        "speed": 8.4,
+                        "spin": 8.7,
+                        "control": 8.1,
+                        "tackiness": 4.0,
+                        "weight": 4.6,
+                        "sponge_hardness": 5.6,
+                        "gears": 5.2,
+                        "throw_angle": 4.9,
+                        "consistency": 8.1,
+                        "durability": 6.3,
+                        "overall": 8.6,
+                        "price":37
+                    }
+                },
+                {
+                    "rubber_name": "Stiga Mendo",
+                    "properties":{
+                        "speed": 8.4,
+                        "spin": 9.1,
+                        "control": 8.7,
+                        "tackiness": 1.8,
+                        "weight": 3.6,
+                        "sponge_hardness": 1.9,
+                        "gears": 7.9,
+                        "throw_angle": 5.5,
+                        "consistency": 9.5,
+                        "durability": 7.4,
+                        "overall": 9.0,
+                        "price":52
+                    }
+                },
+                {
+                    "rubber_name": "Donic Baracuda",
+                    "properties":{
+                        "speed": 8.7,
+                        "spin": 9.5,
+                        "control": 8.6,
+                        "tackiness": 2.3,
+                        "weight": 5.5,
+                        "sponge_hardness": 4.9,
+                        "gears": 7.9,
+                        "throw_angle": 7.3,
+                        "consistency": 8.9,
+                        "durability": 7.7,
+                        "overall": 9.3,
+                        "price":60
+                    }
+                },
+                {
+                    "rubber_name": "Donic Baracuda Big Slam",
+                    "properties":{
+                        "speed": 8.2,
+                        "spin": 9.2,
+                        "control": 8.6,
+                        "tackiness": 2.0,
+                        "weight": 4.5,
+                        "sponge_hardness": 2.5,
+                        "gears": 6.4,
+                        "throw_angle": 5.9,
+                        "consistency": 9.4,
+                        "durability": 6.4,
+                        "overall": 8.9,
+                        "price":70
+                    }
+                }
+               
+            ]
+        }
+    ]
+}

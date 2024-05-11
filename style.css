@@ -1,0 +1,175 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Noto Sans", sans-serif;
+}
+
+.navbar{
+    background-color: #2B2D42 !important;
+}
+
+.nav-item{
+    margin-right: 5rem;
+    font-size: 1.7rem;
+
+}
+
+.nav-item a{
+    color: #EDF2F4 !important;
+}
+
+.nav-item a:hover{
+    color: #EF233C !important;
+    transition: ease-in .3s;
+}
+
+.nav-item:after{
+  content: '';
+  display: block;
+  width: 0;
+  height: 2px;
+  background: #EF233C;
+  transition: width .3s;
+}
+
+.nav-item:hover:after{
+    width: 100%;
+    transition: width .3s;
+}
+
+.navbar-brand{
+    margin-left: 50px;
+}
+
+
+/* Home */
+
+#banner-container{
+    height: 100vh;
+}
+
+#home-content{
+    margin-top: 10%;
+}
+
+#course-title{
+    color: #2B2D42;
+    font-size: 4.5rem;
+    margin-bottom: 30px;
+}
+
+#project-title{
+    color: #D80032;
+    font-size: 3rem;
+    margin-bottom: 30px;
+}
+
+#project-content{
+    color: #2B2D42;
+    font-size: 1.5rem;
+}
+
+/* Dataset */
+#dataset-container{
+    height: 100vh;
+    /*margin-left: 50px;*/
+    background-color: #2B2D42;
+}
+
+#dataset-header{
+    margin-bottom: 30px;
+}
+
+#dataset-header h1{
+    padding-top: 30px;
+    color: #EDF2F4;
+}
+
+.card{
+    height: 100%;
+    /*border-color: #D80032;*/
+    border: 2px solid #EDF2F4 !important;
+    background-color: #2B2D42 !important;
+    box-shadow: #EDF2F4 0px 2px 5px !important;
+}
+
+.card h5{
+    color: #EDF2F4;
+    font-size: 1.5rem;
+}
+
+.card img{
+    width: 20%;
+    height: auto;
+    margin-top: 20px;
+}
+
+.card p{
+    color: #EDF2F4;
+}
+
+.card .json p{
+    padding: 0;
+    margin: 0;
+}
+
+#json-rubber{
+    font-size: 1.2rem;
+    margin-left: 40px;
+}
+
+#json-header{
+    color: #EDF2F4;
+}
+
+
+.json-property, .json-rubber-closed{
+    margin-left: 20px;
+    padding: 0;
+    font-size: 1.2rem;
+}
+
+
+/* Rubbers */
+#rubber-container{
+    height: 100vh;
+}
+
+#raddar{
+    margin-left: 50px;
+}
+
+#overall{
+    margin-top: 50px;
+    margin-left: 125px;
+}
+
+#raddar-card, #metrics-card, #overall-card
+{
+   box-shadow: white 0px 2px 7px !important;
+   background-color: #2B2D42 !important;
+   padding: 0;
+   border: 2px solid #2B2D42 !important;
+}
+
+#raddar-card .card-header, #metrics-card .card-header, #overall-card .card-header{
+    color: #EDF2F4;
+    border-bottom: 1px solid #EDF2F4;
+    /*background-color: #EDF2F4 !important;*/
+}
+
+#raddar-card .card-body, #metrics-card .card-body, #overall-card .card-body{
+    margin-left: 0;
+    margin-top: 0;
+}
+
+#metric-card .card-body{
+    background-color: #2B2D42 !important;
+}
+
+.x-axis line{
+    stroke: #EDF2F4;
+}
+
